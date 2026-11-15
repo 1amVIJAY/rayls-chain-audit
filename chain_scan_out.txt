@@ -1,0 +1,171 @@
+head 14403633 samples to fetch 144037
+done up to block 9900
+done up to block 109900
+done up to block 209900
+done up to block 309900
+done up to block 409900
+done up to block 509900
+done up to block 609900
+done up to block 709900
+done up to block 809900
+done up to block 909900
+done up to block 1009900
+done up to block 1109900
+done up to block 1209900
+done up to block 1309900
+done up to block 1409900
+done up to block 1509900
+done up to block 1609900
+done up to block 1709900
+done up to block 1809900
+done up to block 1909900
+done up to block 2009900
+done up to block 2109900
+done up to block 2209900
+done up to block 2309900
+done up to block 2409900
+done up to block 2509900
+done up to block 2609900
+done up to block 2709900
+done up to block 2809900
+done up to block 2909900
+done up to block 3009900
+done up to block 3109900
+done up to block 3209900
+done up to block 3309900
+done up to block 3409900
+done up to block 3509900
+done up to block 3609900
+done up to block 3709900
+done up to block 3809900
+done up to block 3909900
+done up to block 4009900
+done up to block 4109900
+done up to block 4209900
+done up to block 4309900
+done up to block 4409900
+done up to block 4509900
+done up to block 4609900
+done up to block 4709900
+done up to block 4809900
+done up to block 4909900
+done up to block 5009900
+done up to block 5109900
+done up to block 5209900
+done up to block 5309900
+done up to block 5409900
+done up to block 5509900
+done up to block 5609900
+done up to block 5709900
+done up to block 5809900
+done up to block 5909900
+done up to block 6009900
+done up to block 6109900
+done up to block 6209900
+done up to block 6309900
+done up to block 6409900
+done up to block 6509900
+done up to block 6609900
+done up to block 6709900
+done up to block 6809900
+done up to block 6909900
+done up to block 7009900
+done up to block 7109900
+done up to block 7209900
+done up to block 7309900
+done up to block 7409900
+done up to block 7509900
+done up to block 7609900
+done up to block 7709900
+done up to block 7809900
+done up to block 7909900
+done up to block 8009900
+done up to block 8109900
+done up to block 8209900
+done up to block 8309900
+done up to block 8409900
+done up to block 8509900
+done up to block 8609900
+done up to block 8709900
+done up to block 8809900
+done up to block 8909900
+done up to block 9009900
+done up to block 9109900
+done up to block 9209900
+done up to block 9309900
+done up to block 9409900
+done up to block 9509900
+done up to block 9609900
+done up to block 9709900
+done up to block 9809900
+done up to block 9909900
+done up to block 10009900
+done up to block 10109900
+done up to block 10209900
+done up to block 10309900
+done up to block 10409900
+done up to block 10509900
+done up to block 10609900
+done up to block 10709900
+done up to block 10809900
+done up to block 10909900
+done up to block 11009900
+done up to block 11109900
+done up to block 11209900
+done up to block 11309900
+done up to block 11409900
+done up to block 11509900
+done up to block 11609900
+done up to block 11709900
+done up to block 11809900
+done up to block 11909900
+done up to block 12009900
+done up to block 12109900
+done up to block 12209900
+done up to block 12309900
+done up to block 12409900
+done up to block 12509900
+done up to block 12609900
+done up to block 12709900
+done up to block 12809900
+done up to block 12909900
+done up to block 13009900
+done up to block 13109900
+done up to block 13209900
+done up to block 13309900
+done up to block 13409900
+done up to block 13509900
+done up to block 13609900
+done up to block 13709900
+done up to block 13809900
+done up to block 13909900
+done up to block 14009900
+done up to block 14109900
+done up to block 14209900
+done up to block 14309900
+done up to block 14403600
+samples 144037
+ANOMALY 0 -> 100 2026-04-27 22:30:18 -> 2026-04-30 16:00:28 dt 235810 round 0 -> 198 epoch 0 1
+ANOMALY 351100 -> 351200 2026-05-05 21:57:23 -> 2026-05-06 09:42:30 dt 42307 round 33220 -> 33422 epoch 6 6
+ANOMALY 3366800 -> 3366900 2026-06-21 01:03:57 -> 2026-06-21 01:03:10 dt -47 round 50242 -> 50172 epoch 52 52
+ANOMALY 3367000 -> 3367100 2026-06-21 01:05:24 -> 2026-06-21 10:17:14 dt 33110 round 50372 -> 50606 epoch 52 52
+ANOMALY 3368900 -> 3369000 2026-06-21 10:58:43 -> 2026-06-21 11:05:26 dt 403 round 54250 -> 54450 epoch 52 52
+ANOMALY 3382400 -> 3382500 2026-06-21 15:57:30 -> 2026-06-21 12:45:18 dt -11532 round 81384 -> 63680 epoch 52 52
+ANOMALY 3382500 -> 3382600 2026-06-21 12:45:18 -> 2026-06-21 16:00:48 dt 11730 round 63680 -> 178 epoch 52 53
+ANOMALY 5777400 -> 5777500 2026-07-27 15:57:08 -> 2026-07-27 07:42:17 dt -29691 round 132620 -> 87010 epoch 88 88
+ANOMALY 5777500 -> 5777600 2026-07-27 07:42:17 -> 2026-07-27 16:00:54 dt 29917 round 87010 -> 186 epoch 88 89
+ANOMALY 6774700 -> 6774800 2026-08-11 15:57:00 -> 2026-08-11 01:18:15 dt -52725 round 132716 -> 51586 epoch 103 103
+ANOMALY 6774800 -> 6774900 2026-08-11 01:18:15 -> 2026-08-11 16:00:49 dt 52954 round 51586 -> 170 epoch 103 104
+ANOMALY 7039800 -> 7039900 2026-08-15 15:56:52 -> 2026-08-15 12:38:28 dt -11904 round 132572 -> 114278 epoch 107 107
+ANOMALY 7039900 -> 7040000 2026-08-15 12:38:28 -> 2026-08-15 16:00:33 dt 12125 round 114278 -> 154 epoch 107 108
+ANOMALY 7239300 -> 7239400 2026-08-18 15:57:17 -> 2026-08-18 13:43:24 dt -8033 round 132700 -> 120340 epoch 110 110
+ANOMALY 7239400 -> 7239500 2026-08-18 13:43:24 -> 2026-08-18 16:00:56 dt 8252 round 120340 -> 192 epoch 110 111
+ANOMALY 11875400 -> 11875500 2026-10-05 16:39:09 -> 2026-10-05 17:05:24 dt 1575 round 5598 -> 5712 epoch 159 159
+ANOMALY 11875500 -> 11875600 2026-10-05 17:05:24 -> 2026-10-05 17:33:05 dt 1661 round 5712 -> 5932 epoch 159 159
+ANOMALY 11983000 -> 11983100 2026-10-06 16:44:03 -> 2026-10-06 16:59:41 dt 938 round 6344 -> 6566 epoch 160 160
+ANOMALY 11983200 -> 11983300 2026-10-06 17:03:05 -> 2026-10-06 17:24:17 dt 1272 round 6766 -> 6958 epoch 160 160
+ANOMALY 11983400 -> 11983500 2026-10-06 17:29:09 -> 2026-10-06 18:18:43 dt 2974 round 7224 -> 7328 epoch 160 160
+ANOMALY 11983600 -> 11983700 2026-10-06 18:21:53 -> 2026-10-06 18:49:39 dt 1666 round 7568 -> 7764 epoch 160 160
+ANOMALY 13277900 -> 13278000 2026-10-26 18:50:32 -> 2026-10-26 19:30:06 dt 2374 round 15004 -> 15240 epoch 180 180
+ANOMALY 13278000 -> 13278100 2026-10-26 19:30:06 -> 2026-10-26 20:28:27 dt 3501 round 15240 -> 15448 epoch 180 180
+ANOMALY 13278100 -> 13278200 2026-10-26 20:28:27 -> 2026-10-26 20:42:15 dt 828 round 15448 -> 15648 epoch 180 180

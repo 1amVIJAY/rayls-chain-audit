@@ -1,0 +1,21 @@
+distinct epochs audited: 197
+epochs with late blocks at the end: 18 before block 12231705: 18
+epoch 33 boundary 2083372 2026-06-01 15:58:48 late 18 max late s 12362 {'0xba7444': 18}
+epoch 53 boundary 3382518 2026-06-21 15:58:54 late 65 max late s 20611 {'0x90aed9': 32, '0xba7444': 1, '0xeecf1a': 32}
+epoch 60 boundary 3846283 2026-06-28 15:58:47 late 32 max late s 82332 {'0xba7444': 32}
+epoch 80 boundary 5178248 2026-07-18 15:58:47 late 15 max late s 9413 {'0xba7444': 15}
+epoch 88 boundary 5710970 2026-07-26 15:58:51 late 32 max late s 26479 {'0xfc1822': 32}
+epoch 89 boundary 5777510 2026-07-27 15:58:53 late 32 max late s 44190 {'0xfc1822': 32}
+epoch 92 boundary 5977017 2026-07-30 15:58:53 late 7 max late s 1271 {'0xfc1822': 7}
+epoch 94 boundary 6109999 2026-08-01 15:58:50 late 5 max late s 2433 {'0xfc1822': 5}
+epoch 97 boundary 6309358 2026-08-04 15:58:53 late 31 max late s 16270 {'0xfc1822': 31}
+epoch 104 boundary 6774817 2026-08-11 15:59:00 late 32 max late s 71434 {'0xfc1822': 32}
+epoch 106 boundary 6907177 2026-08-13 15:58:53 late 2 max late s 1531 {'0xfc1822': 2}
+epoch 107 boundary 6973496 2026-08-14 15:58:58 late 32 max late s 45589 {'0xfc1822': 32}
+epoch 108 boundary 7039924 2026-08-15 15:58:55 late 32 max late s 15900 {'0xfc1822': 32}
+epoch 109 boundary 7106389 2026-08-16 15:58:56 late 32 max late s 42636 {'0xfc1822': 32}
+epoch 111 boundary 7239406 2026-08-18 15:58:54 late 32 max late s 15642 {'0xfc1822': 32}
+epoch 112 boundary 7305952 2026-08-19 15:58:54 late 32 max late s 57651 {'0xfc1822': 32}
+epoch 118 boundary 7703900 2026-08-25 15:58:55 late 3 max late s 2156 {'0xfc1822': 3}
+epoch 119 boundary 7770334 2026-08-26 15:58:55 late 32 max late s 27973 {'0xfc1822': 32}
+late blocks by author over all flagged epochs: {'0xba7444': 66, '0x90aed9': 32, '0xeecf1a': 32, '0xfc1822': 336}
